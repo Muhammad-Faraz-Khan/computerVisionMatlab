@@ -1,0 +1,1 @@
+Code is written to classify pictures with snow images from no snow images. Two folders are prepared in one has all snow images and the other has no snow images
